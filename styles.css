@@ -1,0 +1,166 @@
+.hero {
+    background-color: #1f2937;
+    color: #f9faf8;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.hero-header {
+    font-size: 24px;
+    display: flex;
+    position: relative;
+    left: 25px;
+    margin: auto;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    position: relative;
+    left: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 200px;
+}
+
+.hero-secondary-text {
+    position: relative;
+    left: 200px;
+    font-size: 18px;
+    width: 400px;
+    height: 40px;
+    padding-bottom: 30px;
+    
+}
+
+.information {
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 25%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+
+}
+
+.quote-box {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    
+
+}
+
+.quote-text {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-size: 35px;
+    font-weight: light;
+    font-style: italic; 
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    max-width: 425px;
+
+}
+
+.signature {
+    color: #1f2937;
+    font-size: 35px;
+    margin: auto;
+    font-weight: light;
+    font-style: italic;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 200px;
+}
+
+.box {
+    margin: auto;
+    display: inline-flex;
+    position: relative;
+    flex-direction: row;
+    align-content: center;
+    position: flex;
+}
+
+.box-one {
+    margin-left: auto;
+    width: 80px;
+    height: 80px;
+    border: 5px solid #1f2937;
+    border-radius: 10%;
+    margin-right: 20px;
+    
+   
+}
+
+.box-two {
+    margin-left: auto;
+    width: 80px;
+    height: 80px;
+    border: 5px solid #1f2937;
+    border-radius: 10%;
+    margin-right: 20px;
+}
+
+.box-three {
+    margin-left: auto;
+    width: 80px;
+    height: 80px;
+    border: 5px solid #1f2937;
+    border-radius: 10%;
+    margin-right: 20px;
+}
+
+.box-four {
+    margin-left: auto;
+    width: 80px;
+    height: 80px;
+    border: 5px solid #1f2937;
+    border-radius: 10%;
+}
+
+.call-to-action {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+}
+
+.sign-up-box {
+    background-color: lightblue;
+    color: white;
+    width: 75%;
+    height: 80px;
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    margin: auto;
+    border: 5px solid white;
+    
+    
+
+}
+
+.sign-up {
+    background-color: lightblue;
+    color: white;
+    border: 5px solid white;
+    border-radius: 10%;
+    width: 100px;
+    height: 50px;
+    padding: auto;
+    margin: auto;
+    font-weight: bold;
+    font-size: 18px;
+    
+    
+}
